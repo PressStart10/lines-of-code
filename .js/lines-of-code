@@ -1,1 +1,7 @@
-
+function say(sa){
+  switch(sa){
+    case "up":
+      document.getElimentById("
+    break;
+  }
+}
