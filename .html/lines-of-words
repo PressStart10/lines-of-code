@@ -11,5 +11,5 @@
     <input type="text" id="i"/>
     <button type="submit" onclick="say(#i.value)">Enter</button>
   </body>
-  <script src="../.js/lines-of-code"/>
+  <script src="../.js/lines-of-code.js"/>
 </html>
